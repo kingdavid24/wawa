@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+    color: white;
+    height: 10vh;
+}
+h1{
+    color: rgb(126, 123, 123);
+    font-size: small;
+}
+.arrange{
+    margin-top: -26px;
+}
+p{
+    color: white;
+}
+.arrange1 {
+    margin-top: -15px;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.p2{
+    color: white;
+    margin-top: -10px;
+}
+button {
+    margin: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #e67e22;
+    cursor: pointer;
+}
+.youtbue{
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.mig {
+    color:rgb(175, 170, 170);
+}
+.miga {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.hh4{
+    color:white;
+    font-size: larger;
+}
+.p3{
+    color: orange;
+}
+a{
+    color:orange;
+}
+p{
+    color:white;
+}
+.footer2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.p4{
+    color:white;
+}

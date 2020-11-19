@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: black;
+  color: white;
+  margin-top: -15px;
+}
+.nav-links {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+h4{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.added{
+  background-color: rgb(243, 161, 10);
+  padding: 10px;
+}
+.embed {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+h3{
+  margin-top: -2px;
+}
+.pipe{
+  color: white;
+  margin-top: 20px;
+}
+.div{
+  color:white;
+  line-height: 50px;
+}
+.footer3{
+  margin-top: 30px;
+}
+.mig{
+  color:rgb(175, 170, 170);
+}
+.h1{
+  font-size: xx-large;
+  color:white;
+  margin-top: 120px;
+}
